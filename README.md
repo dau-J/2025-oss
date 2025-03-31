@@ -13,5 +13,3 @@ good student
 - 수건돌리기
 - 도시락돌리기
 - 바통 돌리기
-
-um jun sik is live
