@@ -16,3 +16,5 @@ good student
 - 뒷풀이
 
   ## MARKDOWN
+
+  ## 중간시험 목 오전9:00
